@@ -1,0 +1,6 @@
+{
+    "main_script": "./script.py",
+    "python_version": "3.9",
+    "requirements": "./requirements.txt",
+    "working_directory": "."
+}
